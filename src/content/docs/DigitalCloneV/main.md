@@ -5,4 +5,4 @@ description: きおく屋の提供するサービス
 
 ## ツールの導入
 
-- unitypackage を Unity にドラッグ＆ドロップしてください。<br>
+- 工事中<br>

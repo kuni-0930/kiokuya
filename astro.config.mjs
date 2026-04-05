@@ -10,8 +10,12 @@ export default defineConfig({
         title: "DigitalCloneV",
         sidebar: [
             {
+                label: "はじめに",
+                link: "DigitalCloneV/main/",
+            },
+            {
                 label: "導入方法",
-                autogenerate: {directory: "install"},
+                autogenerate: {directory: "DigitalCloneV/install"},
             },
         ],
         favicon: "/favicon.ico",
