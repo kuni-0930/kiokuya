@@ -1,6 +1,7 @@
 ---
 title: FFmpegの導入
 description: DigitalCloneVの導入
+slug: /DigitalCloneV/install/install_ffmpeg/
 ---
 
 ## はじめに
