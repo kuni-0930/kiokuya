@@ -4,6 +4,8 @@ description: きおく屋の提供するサービス
 slug: DigitalCloneV/main/main
 ---
 
+![DigitalCloneV](/kiokuya/images/DigitalCloneV/DigitalCloneV.png)
+
 ## はじめに
 
 DigitalCloneVは配信でAIがあなたの代わりにあなたの声で受け答えするソフトです。<br>
