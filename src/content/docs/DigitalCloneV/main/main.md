@@ -31,6 +31,7 @@ DigitalCloneVではStyleBertVits2を利用しており、StyleBertVits2を使う
 
 ### StyleBertVits2のインストール
 AIの考えた返答をあなたの音声にするためにStyleBertVits2というAIを利用します。<br>
+[FFmpegの導入](../install/install_sbv2/)
 
 ### ファインチューニングデータ作成
 OpenAIであなたの性格を学習したAIモデルを作成します。<br>
