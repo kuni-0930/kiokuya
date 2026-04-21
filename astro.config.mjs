@@ -17,6 +17,10 @@ export default defineConfig({
                 label: "導入方法",
                 autogenerate: {directory: "DigitalCloneV/install"},
             },
+            {
+                label: "使い方",
+                autogenerate: {directory: "DigitalCloneV/howto"},
+            },
         ],
     }
     )],
