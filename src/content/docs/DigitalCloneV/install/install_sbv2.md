@@ -8,10 +8,10 @@ slug: DigitalCloneV/install/install_sbv2
 
 DigitalCloneVでは外部サービスとしてStyle-Bert-VITS2を利用しています。<br>
 Style-Bert-VITS2はGithubで公開されている音声合成AIです。<br>
-[Style-Bert-VITS2公式](https://github.com/litagin02/Style-Bert-VITS2)<br>
+<a href="https://github.com/litagin02/Style-Bert-VITS2" target="_blank" rel="noopener noreferrer">Style-Bert-VITS2公式</a><br>
 ここではその導入方法を説明します。<br>
 Style-Bert-VITS2公式が用意してくださった解説動画もありますのでこちらも参考にしてください。<br>
-[Style-Bert-VITS2解説動画](https://www.youtube.com/watch?v=aTUSzgDl1iY)<br>
+<a href="https://www.youtube.com/watch?v=aTUSzgDl1iY" target="_blank" rel="noopener noreferrer">Style-Bert-VITS2解説動画</a><br>
 
 ## インストール
 
