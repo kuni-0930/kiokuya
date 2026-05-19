@@ -45,6 +45,7 @@ OpenAIの機能を使う為にAPIキーを取得します。<br>
 
 ### YoutubeAPIKeyの取得
 Youtubeの機能を利用する為にAPIキーを取得します。<br>
+[YoutubeAPIKeyの取得](../install/install_youtube_apikey/)<br>
 
 ### DigitalCloneVの設定
 取得したAPIキーなどをDigitalCloneVの設定に入力します。<br>
