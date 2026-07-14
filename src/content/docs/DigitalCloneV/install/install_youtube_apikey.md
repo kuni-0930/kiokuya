@@ -11,7 +11,6 @@ YoutubeLiveのコメントを取得するのにYoutube API Keyが必要になり
 
 ## APIKeyの取得
 
-
 まず<a href="https://console.cloud.google.com/welcome?project=solid-space-459107-m0" target="_blank" rel="noopener noreferrer">Google Cloud Console</a>のページにいきます。<br>
 
 ![youtube](/kiokuya/images/youtube/youtube_new.png)
