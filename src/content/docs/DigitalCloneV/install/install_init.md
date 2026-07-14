@@ -1,5 +1,5 @@
 ---
-title: Style-Bert-VITS2の導入
+title: 初期設定
 description: DigitalCloneVの導入
 slug: DigitalCloneV/install/install_init
 ---

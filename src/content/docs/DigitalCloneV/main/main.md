@@ -24,6 +24,7 @@ DigitalCloneVは配信でAIがあなたの代わりにあなたの声で受け�
 ## 各項目の簡単な説明
 ### 初期設定
 InitialSettings.exeを使ってあなたの名前や生年月日等を入力します。<br>
+[初期設定](../install/install_init/)<br>
 
 ### FFmpegの導入
 DigitalCloneVではStyle-Bert-VITS2を利用しており、Style-Bert-VITS2を使うにはFFmpegが必要です。<br>
@@ -49,5 +50,6 @@ Youtubeの機能を利用する為にAPIキーを取得します。<br>
 
 ### DigitalCloneVの設定
 取得したAPIキーなどをDigitalCloneVの設定に入力します。<br>
+[DigitalCloneVの設定](../install/install_ssettings/)<br>
 
 
